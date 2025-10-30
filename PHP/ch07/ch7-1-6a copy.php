@@ -1,10 +1,7 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8" />
-<title>ch7-1-6a.php</title>
-</head>
-<body>
+<H1>SID:C112181104
+<BR>
+NAME:何昇輔
+<p>
 <?php
 // 使用define()建立常數陣列
 define("ANIMALS", [
@@ -19,4 +16,3 @@ echo ANIMALS[2];
 echo "<br/>";
 ?>
 </body>
-</html>

@@ -5,5 +5,8 @@ $arr = array(
    "shpae"=>"三角形",
    100
 );
-foreach ($arr as $key=>$value) echo"$key =>$value, ";
+foreach ($arr as $key=>$value) {
+echo"$key =>$value, ";
+}
+
 ?>

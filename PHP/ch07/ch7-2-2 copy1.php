@@ -1,3 +1,7 @@
+<H1>SID:C112181104
+<BR>
+NAME:何昇輔
+<p>
 <?php
 $arr = array(
    "SID"=>"C112181104",
@@ -6,7 +10,7 @@ $arr = array(
    100
 );
 foreach ($arr as $key=>$value) {
-echo"$key~ $value<HR> ";
+echo"$key ~ $value<HR> ";
 }
 echo"<BR>";
 print_r(value: $arr);
