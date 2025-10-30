@@ -8,10 +8,10 @@
 <?php
 // 使用define()建立常數陣列
 define("ANIMALS", [
-    "狗", 
-    "猫",
-    "猴子",
-    "鳥",
+    "dog", 
+    "cat",
+    "monkey",
+    "bird",
 ]);
 echo ANIMALS[1];
 echo "<br/>";
